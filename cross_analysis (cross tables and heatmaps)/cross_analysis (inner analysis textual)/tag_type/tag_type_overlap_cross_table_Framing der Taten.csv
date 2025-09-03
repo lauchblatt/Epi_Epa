@@ -1,0 +1,20 @@
+,Dummheit,Gefahr für priesterliches Ansehen,Kirchenrechtlich,Liebesbeziehung,Missbrauch,Schutz- und Hilfsbedürftigkeit,Strafrechtlich,Verhältnis nicht weiter spezifiziert,Verstoß gegen 6. Gebot,Weitere Framings,Zölibatsverstoß,der Frau,durch Frau,moralische Verurteilung,sexuelle Handlungen,unerheblich,verklausuliert,"Übergriff, Gewalt etc.",Sum
+Dummheit,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Gefahr für priesterliches Ansehen,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Kirchenrechtlich,0,0,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9
+Liebesbeziehung,0,0,0,9,1,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+Missbrauch,0,0,0,1,38,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+Schutz- und Hilfsbedürftigkeit,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Strafrechtlich,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,9
+Verhältnis nicht weiter spezifiziert,0,0,0,0,0,0,0,10,0,0,0,0,0,1,0,0,0,0,11
+Verstoß gegen 6. Gebot,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+Weitere Framings,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3
+Zölibatsverstoß,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,5
+der Frau,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+durch Frau,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+moralische Verurteilung,0,0,0,0,0,0,0,1,0,0,0,0,0,10,0,0,1,0,12
+sexuelle Handlungen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+unerheblich,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,15,0,0,17
+verklausuliert,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,15,0,16
+"Übergriff, Gewalt etc.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,22
+Sum,5,6,9,11,39,1,9,11,2,3,5,2,2,12,1,17,16,22,173

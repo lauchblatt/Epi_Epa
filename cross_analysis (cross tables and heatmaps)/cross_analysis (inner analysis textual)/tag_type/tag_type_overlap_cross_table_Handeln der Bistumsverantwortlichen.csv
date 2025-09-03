@@ -1,0 +1,14 @@
+,Druck/Zwang,"Entschädigung, Wiedergutmachung etc.",Loyalität mit dem Täter,"Maßnahme, Strafe",Neutralisierung,Schweigegebot,Solidarisierung mit Betroffenen,Verschleierung,Verzögerung,Victim Blaming (Bistum),Vorgehen allgemein,keine Konsequenzen,Sum
+Druck/Zwang,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Entschädigung, Wiedergutmachung etc.",0,1,0,0,0,0,0,0,0,0,1,0,2
+Loyalität mit dem Täter,0,0,4,1,0,0,0,0,0,0,1,1,7
+"Maßnahme, Strafe",0,0,1,64,0,0,0,3,1,0,15,1,85
+Neutralisierung,0,0,0,0,5,0,0,0,0,0,2,0,7
+Schweigegebot,0,0,0,0,0,3,0,1,0,0,1,0,5
+Solidarisierung mit Betroffenen,0,0,0,0,0,0,1,0,0,0,0,0,1
+Verschleierung,0,0,0,3,0,1,0,17,0,0,2,0,23
+Verzögerung,0,0,0,1,0,0,0,0,22,0,3,0,26
+Victim Blaming (Bistum),0,0,0,0,0,0,0,0,0,2,1,0,3
+Vorgehen allgemein,0,1,1,15,2,1,0,2,3,1,69,9,104
+keine Konsequenzen,0,0,1,1,0,0,0,0,0,0,9,30,41
+Sum,1,2,7,85,7,5,1,23,26,3,104,41,305

@@ -1,0 +1,13 @@
+,Beichte,Bildung,Dienstverhältnis,Geistliche Begleitung,Geistliche Gemeinschaften,Jugendarbeit,Kategoriale Seelsorge,Orden,Pfarrei,Seelsorge,weitere Tatkonstellationen,Sum
+Beichte,1,0,0,0,0,0,0,0,0,0,0,1
+Bildung,0,4,0,0,0,0,0,0,0,0,0,4
+Dienstverhältnis,0,0,9,0,0,0,0,0,0,0,0,9
+Geistliche Begleitung,0,0,0,1,0,0,0,1,0,0,0,2
+Geistliche Gemeinschaften,0,0,0,0,2,0,0,0,0,0,0,2
+Jugendarbeit,0,0,0,0,0,6,0,0,2,0,0,8
+Kategoriale Seelsorge,0,0,0,0,0,0,1,0,1,0,0,2
+Orden,0,0,0,1,0,0,0,6,0,0,0,7
+Pfarrei,0,0,0,0,0,2,1,0,12,0,0,15
+Seelsorge,0,0,0,0,0,0,0,0,0,1,0,1
+weitere Tatkonstellationen,0,0,0,0,0,0,0,0,0,0,4,4
+Sum,1,4,9,2,2,8,2,7,15,1,4,55
