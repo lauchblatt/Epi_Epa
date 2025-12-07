@@ -1,8 +1,8 @@
 # Epi_Epa
 
-Work-in-progress repository to store data und research outputs for the research project EpiEpa (<a href="https://gepris.dfg.de/gepris/projekt/539293243">From Epistemic Injustice to Epistemic Awareness</a>), an interdisciplinary research project between catholic theology and computer science. More information: <a href="https://missbrauchsmuster.de/forschen/projekte/forschungsprojekt-von-epistemic-injustice-zu-epistemic-awareness-prozessbasierte-methodenforschung-zu-missbrauch-an-erwachsenen-frauen-in-der-katholischen-kirche/">here</a>. 
+Work-in-progress repository to store data und research outputs for the research project (anonymized for review purposes), an interdisciplinary research project between catholic theology and computer science.
 
-Right now, this repository contains texts, annotations, tables and visualisations of our first pilot annotation of five five abuse reports by catholic institutions. The current data is only for review purposes of paper contributions. Please do not share the data or research outputs.
+Right now, this repository contains texts, annotations, tables and visualisations of our first pilot annotation of five five abuse reports by catholic institutions as well as first machine learning results. The current data is only for review purposes of paper contributions. Please do not share the data or research outputs.
 
 The repository is currently structured as follows:
 
@@ -15,4 +15,4 @@ The repository is currently structured as follows:
 
 Please note that for all analysis, we differ between first level which is the first hierarchical level of our annotation scheme and tag or tag type which is the lowest hierarchical level.
 
-For all questions related to this repository, please contact: thomas.schmidt@ur.de
+For all questions related to this repository, please contact: anonymized for review purposes
