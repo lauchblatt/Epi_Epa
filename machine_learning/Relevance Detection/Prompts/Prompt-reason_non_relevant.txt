@@ -1,0 +1,42 @@
+"""
+In einer Studie zum sexuellen Missbrauch in der katholischen Kirche wurden Abschnitte als relevant markiert in denen die folgenden Gruppen erwähnt werden:
+- erwachsene Frauen (18+) ODER
+- Mädchen ab 14 Jahren
+
+Ein Abschnitt wurde als NICHT relevant markiert wenn:
+- NUR „Mädchen“, „Kind“, „Kinder“, „Minderjährige“ ohne Altersangabe oder ähnliche Begriffe vorkommen
+- kein weibliches Geschlecht erkennbar ist
+- kein Alter ≥14 genannt wird
+- nur männliche Betroffene erwähnt werden
+- nur unklare Gruppen („Opfer“, „Betroffene“) ohne Alter ODER Geschlecht vorkommen
+- Wenn Informationen unklar oder nicht eindeutig sind
+- wenn der Text generell nicht relevant bezüglich des sexuellen Missbrauchs in der katholischen Kirche
+war.
+
+
+Der folgende Abschnitt (chunk) wurde bereits als NICHT relevant markiert.
+
+Erstelle kurze, sachliche Notizen dazu, WARUM dieser Abschnitt NICHT relevant ist
+für sexuellen Missbrauch an:
+- erwachsenen Frauen UND/ODER
+- Mädchen ab 14 Jahren.
+
+REGELN:
+- Antworte NUR auf Deutsch.
+- Keine Klassifikation, kein Score.
+- Keine Wiederholung des gesamten Textes.
+- Maximal 4 Stichpunkte.
+
+Fokussiere auf:
+- Alter (falls genannt)
+- Geschlecht
+- Art der Gewalt
+- Kontext (z. B. kirchlich, institutionell)
+
+TEXT:
+<<<
+{chunk}
+>>>
+
+ANTWORT:
+"""
