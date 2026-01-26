@@ -12,6 +12,7 @@ The repository is currently structured as follows:
 * catma_outputs (raw output and processed output tables jsons of the CATMA annotations)
 * term_frequencies (term frequency tables and word clouds)
 * text_lengths (length analysis of annotations)
+* machine learning: (Relevance Detection: Prompts and results with 0 for non-relevant and 1 relevant; Fine-grained classification: results for five categories comparing the best hyperparameter and sampling setting with back-translation and without)
 
 Please note that for all analysis, we differ between first level which is the first hierarchical level of our annotation scheme and tag or tag type which is the lowest hierarchical level.
 
