@@ -120,8 +120,8 @@ The repository is intended for scholarly research and methodological scrutiny. I
 
 The project is conducted at the University of Regensburg, Germany.
 
-- **Prof. Dr. Ute Leimgruber** — Project lead
-- **Magdalena Hürten** — Catholic Theology
+- **Prof. Dr. Ute Leimgruber** — Catholic Theology
+- **Dr. Magdalena Hürten** — Catholic Theology
 - **Thomas Schmidt** — Media Informatics
 - **Prof. Dr. Christian Wolff** — Media Informatics
 
